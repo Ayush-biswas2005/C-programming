@@ -4,4 +4,6 @@ project(C_programming)
 set(CMAKE_CXX_STANDARD 20)
 
 add_executable(C_programming main.cpp
-        Programs/SumOf2.c)
+        Programs/SumOf2.c
+        Programs/PrimeNumber.c
+        Programs/Multiplication.c)
