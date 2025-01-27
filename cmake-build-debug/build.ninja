@@ -73,6 +73,12 @@ build CMakeFiles/C_programming.dir/Programs/Multiplication.c.obj: C_COMPILER__C_
   OBJECT_DIR = CMakeFiles\C_programming.dir
   OBJECT_FILE_DIR = CMakeFiles\C_programming.dir\Programs
 
+build CMakeFiles/C_programming.dir/Programs/a.c.obj: C_COMPILER__C_programming_unscanned_Debug D$:/C$ programming/C-programming/Programs/a.c || cmake_object_order_depends_target_C_programming
+  DEP_FILE = CMakeFiles\C_programming.dir\Programs\a.c.obj.d
+  FLAGS = -g -fdiagnostics-color=always
+  OBJECT_DIR = CMakeFiles\C_programming.dir
+  OBJECT_FILE_DIR = CMakeFiles\C_programming.dir\Programs
+
 
 # =============================================================================
 # Link build statements for EXECUTABLE target C_programming
@@ -81,7 +87,7 @@ build CMakeFiles/C_programming.dir/Programs/Multiplication.c.obj: C_COMPILER__C_
 #############################################
 # Link the executable C_programming.exe
 
-build C_programming.exe: CXX_EXECUTABLE_LINKER__C_programming_Debug CMakeFiles/C_programming.dir/main.cpp.obj CMakeFiles/C_programming.dir/Programs/SumOf2.c.obj CMakeFiles/C_programming.dir/Programs/PrimeNumber.c.obj CMakeFiles/C_programming.dir/Programs/Multiplication.c.obj
+build C_programming.exe: CXX_EXECUTABLE_LINKER__C_programming_Debug CMakeFiles/C_programming.dir/main.cpp.obj CMakeFiles/C_programming.dir/Programs/SumOf2.c.obj CMakeFiles/C_programming.dir/Programs/PrimeNumber.c.obj CMakeFiles/C_programming.dir/Programs/Multiplication.c.obj CMakeFiles/C_programming.dir/Programs/a.c.obj
   FLAGS = -g
   LINK_LIBRARIES = -lkernel32 -luser32 -lgdi32 -lwinspool -lshell32 -lole32 -loleaut32 -luuid -lcomdlg32 -ladvapi32
   OBJECT_DIR = CMakeFiles\C_programming.dir
