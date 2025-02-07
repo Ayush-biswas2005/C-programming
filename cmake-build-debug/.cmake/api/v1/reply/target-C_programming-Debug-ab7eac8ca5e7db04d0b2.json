@@ -158,7 +158,7 @@
 		{
 			"backtrace" : 1,
 			"compileGroupIndex" : 1,
-			"path" : "Programs/x.c",
+			"path" : "Programs/PalindromeNumber.c",
 			"sourceGroupIndex" : 0
 		}
 	],

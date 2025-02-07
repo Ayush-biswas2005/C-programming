@@ -7,4 +7,7 @@ add_executable(C_programming main.cpp
         Programs/SumOf2.c
         Programs/PrimeNumber.c
         Programs/Multiplication.c
-        Programs/76thRepublicDay.c)
+        Programs/76thRepublicDay.c
+        Programs/StarProgram.c
+        Programs/PalindromeNumber.c
+)
