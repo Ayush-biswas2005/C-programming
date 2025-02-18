@@ -1,6 +1,6 @@
 # ninja log v6
 30	262	7595893159657533	CMakeFiles/C_programming.dir/Programs/SumOf2.c.obj	3293ef219e04b8cc
-19	1378	7605649705970565	build.ninja	f0d90667de085c34
+19	1378	7615909037886471	build.ninja	f0d90667de085c34
 12	203	7595897249785152	CMakeFiles/C_programming.dir/Programs/PrimeNumber.c.obj	76aa3cd7abf00a4a
 6	1386	7595893159425861	CMakeFiles/C_programming.dir/main.cpp.obj	1cc7e83e41897b51
 35	300	7595897250020126	CMakeFiles/C_programming.dir/Programs/Multiplication.c.obj	9975c02687020fc4

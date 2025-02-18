@@ -10,4 +10,6 @@ add_executable(C_programming main.cpp
         Programs/76thRepublicDay.c
         Programs/StarProgram.c
         Programs/PalindromeNumber.c
+        Programs/efe.c
+        Programs/NumberIsLessThanOrGreaterThan100.c
 )
