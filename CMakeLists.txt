@@ -12,4 +12,5 @@ add_executable(C_programming main.cpp
         Programs/PalindromeNumber.c
         Programs/efe.c
         Programs/NumberIsLessThanOrGreaterThan100.c
+        Programs/x.c
 )
